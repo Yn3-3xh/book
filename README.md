@@ -41,4 +41,4 @@
 - [ ] 가상 면접 사례로 배우는 대규모 시스템 설계 기초 2
 
 ### 네트워크
-- [ ] 그림으로 배우는 Http & Network Basic
+- [x] 그림으로 배우는 Http & Network Basic
