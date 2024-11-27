@@ -42,4 +42,3 @@
 
 ### 네트워크
 - [ ] 그림으로 배우는 Http & Network Basic
-- [ ] 
