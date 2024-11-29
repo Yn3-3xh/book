@@ -47,3 +47,6 @@
 - [x] 그림으로 배우는 Http & Network Basic
 - [ ] HTTP 완벽 가이드(다람쥐)
 - [ ] 운영체제(공룡)
+
+### ORM
+- [ ] 자바 ORM 표준 JPA 프로그래밍
