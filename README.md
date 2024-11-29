@@ -8,7 +8,7 @@
 - [ ] 요즘 우아한 개발
 
 ### 클린 코드
-- [ ] <ins>Clean Code</ins>
+- [ ] Clean Code✏️
 - [ ] 좋은 코드, 나쁜 코드
 - [ ] 디자인 패턴의 아름다움
 - [ ] 리팩터링
@@ -19,7 +19,7 @@
 - [ ] 이펙티브 자바
 
 ### TDD
-- [ ] <ins>JUnit IN ACTION 3판</ins>
+- [ ] JUnit IN ACTION 3판🏃
 - [ ] 테스트 주도 개발 :By Example
 
 ### 객체지향
